@@ -14,3 +14,10 @@ Here is a growing collection of resources and helpfull commands to know when wor
 -[Git push](./Commands/Push.md)
 -[Git remote](./Commands/Remote.md)
 -[Git status](./Commands/Status.md)
+
+
+## External Resources
+-[Markdown Cheatsheet](https://www.markdownguide.org/cheat-sheet/)
+-[git Documentation](https:git-scm.com/docs)
+-[gitignore Documentation](https://git-scm.com/docs/gitignore)
+-[git Branches](https://git-scm.com/book/en/v2/Git-Branching-Branches-in-a-Nutshell)
